@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SetifDoctors</string>
+    <string name="action_settings">Settings</string>
+    <string name="share_button">شارك التطبيق</string>
+    <string name="rate_button">تقييم التطبيق</string>
+    <string name="by">تم تطوير التطبيق من طرف</string>
+</resources>
